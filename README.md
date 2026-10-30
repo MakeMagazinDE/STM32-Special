@@ -4,18 +4,9 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Make Special STM32
+Code-Beispiele für das Make Special STM32
 
-## Erklärende Unterzeile (optional)
+Bei Fragen und Anmerkungen bitte ins [Forum zum Heft](https://www.heise.de/forum/Make/Heft-Projekte/Make-Special-STM32/forum-591366/) auf heise.de schreiben
 
-**Vorspann aus dem Heft**
-
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
-
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+![Picture](./doc/stm32-special-cover.jpg)
